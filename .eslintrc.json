@@ -1,0 +1,21 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "jest/globals": true
+  },
+  "extends": ["plugin:react/recommended", "standard", "prettier"],
+  "plugins": ["react", "prettier", "standard", "jest"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+
+  "rules": {
+    "react/prop-types": "off",
+    "no-unused-vars": "warn"
+  }
+}
