@@ -39,4 +39,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 ## Project deployed here
 
-[https://zen-kowalevski-96b547.netlify.app/](https://zen-kowalevski-96b547.netlify.app/) to view it in the browser.
+[https://focused-lichterman-84361f.netlify.app/](https://focused-lichterman-84361f.netlify.app/) to view it in the browser.
